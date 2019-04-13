@@ -1,0 +1,7 @@
+D:\c#prgm\day1exmp\exampleBasic\obj\Debug\exampleBasic.csprojAssemblyReference.cache
+D:\c#prgm\day1exmp\exampleBasic\obj\Debug\exampleBasic.csproj.CoreCompileInputs.cache
+D:\c#prgm\day1exmp\exampleBasic\bin\Debug\exampleBasic.exe.config
+D:\c#prgm\day1exmp\exampleBasic\bin\Debug\exampleBasic.exe
+D:\c#prgm\day1exmp\exampleBasic\bin\Debug\exampleBasic.pdb
+D:\c#prgm\day1exmp\exampleBasic\obj\Debug\exampleBasic.exe
+D:\c#prgm\day1exmp\exampleBasic\obj\Debug\exampleBasic.pdb

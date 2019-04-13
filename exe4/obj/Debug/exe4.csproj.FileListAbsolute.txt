@@ -1,0 +1,7 @@
+D:\c#prgm\day1exmp\exe4\bin\Debug\exe4.exe.config
+D:\c#prgm\day1exmp\exe4\bin\Debug\exe4.exe
+D:\c#prgm\day1exmp\exe4\bin\Debug\exe4.pdb
+D:\c#prgm\day1exmp\exe4\obj\Debug\exe4.csprojAssemblyReference.cache
+D:\c#prgm\day1exmp\exe4\obj\Debug\exe4.csproj.CoreCompileInputs.cache
+D:\c#prgm\day1exmp\exe4\obj\Debug\exe4.exe
+D:\c#prgm\day1exmp\exe4\obj\Debug\exe4.pdb

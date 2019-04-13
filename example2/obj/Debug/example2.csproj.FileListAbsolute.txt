@@ -1,0 +1,6 @@
+D:\c#prgm\day1exmp\example2\bin\Debug\example2.exe.config
+D:\c#prgm\day1exmp\example2\bin\Debug\example2.exe
+D:\c#prgm\day1exmp\example2\bin\Debug\example2.pdb
+D:\c#prgm\day1exmp\example2\obj\Debug\example2.csproj.CoreCompileInputs.cache
+D:\c#prgm\day1exmp\example2\obj\Debug\example2.exe
+D:\c#prgm\day1exmp\example2\obj\Debug\example2.pdb
